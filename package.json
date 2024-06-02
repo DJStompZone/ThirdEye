@@ -21,6 +21,7 @@
     "printWidth": 250
   },
   "scripts": {
+    "start": "node start.js",
     "format": "npx prettier --write --ignore-path .prettierignore ./",
     "linux//": " --- BUILD (Linux) --- ",
     "clean": "rm -rf build/",
